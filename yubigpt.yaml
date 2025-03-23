@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: yubigpt
+  description: A GPT-powered tool by Yubi
+  tags:
+    - AI
+    - website
+  links:
+    - url: https://yubigpt.go-yubi.in
+      title: YubiGPT Website
+      icon: web
+spec:
+  type: website
+  lifecycle: production
+  owner: team-yubi
