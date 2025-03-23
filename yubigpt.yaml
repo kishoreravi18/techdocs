@@ -7,7 +7,7 @@ metadata:
     - ai-tool
     - yubi
   links:
-    - url: https://yubigpt.go-yubi.in
+    - url: https://yubigpt.go-yubi.com
       title: YubiGPT Website
       icon: web
 spec:
