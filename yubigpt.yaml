@@ -4,8 +4,7 @@ metadata:
   name: yubigpt
   description: A GPT-powered tool by Yubi
   tags:
-    - AI
-    - website
+    - ai-tool  # Corrected tag format
   links:
     - url: https://yubigpt.go-yubi.in
       title: YubiGPT Website
